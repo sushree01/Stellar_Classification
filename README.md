@@ -3,6 +3,7 @@
 The data consists of 100,000 observations of space taken by the SDSS (Sloan Digital Sky Survey). Every observation is described by 17 feature columns and 1 class column which identifies it to be either a star, galaxy or quasar.
 
 
+|                                                                                                                                                                 |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | obj_ID = Object Identifier, the unique value that identifies the object in the image catalog used by the CAS                                                    |
 | alpha = Right Ascension angle (at J2000 epoch)                                                                                                                  |
